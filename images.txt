@@ -2,5 +2,6 @@ jenkins/jenkins:2.346.1
 elasticsearch:8.9.0
 logstash:8.9.0
 kibana:8.9.0
+jenkins/jenkins:2.426.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
