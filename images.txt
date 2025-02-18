@@ -7,3 +7,4 @@ jenkins/jenkins:2.479.1
 elasticsearch:8.17.2
 logstash:8.17.2
 kibana:8.17.2
+nacos/nacos-server:v2.2.2
