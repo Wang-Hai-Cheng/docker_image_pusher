@@ -4,3 +4,6 @@ logstash:8.9.0
 kibana:8.9.0
 jenkins/jenkins:2.426.1
 jenkins/jenkins:2.479.1
+elasticsearch:8.17.2
+logstash:8.17.2
+kibana:8.17.2
