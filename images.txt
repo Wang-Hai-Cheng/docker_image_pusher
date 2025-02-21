@@ -1,1 +1,1 @@
-sonatype/nexus3
+openjdk:17-jdk-alpine
