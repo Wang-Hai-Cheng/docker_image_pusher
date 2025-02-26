@@ -1,1 +1,1 @@
-openjdk:17-jdk-alpine
+filebeat:8.17.2
